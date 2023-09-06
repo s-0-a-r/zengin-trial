@@ -34,5 +34,9 @@
     "undici": "5.22.1",
     "vite": "4.4.7",
     "vite-tsconfig-paths": "4.2.0"
+  },
+  "dependencies": {
+    "@types/zengin-code": "^1.0.0",
+    "zengin-code": "^1.0.0-p20230802"
   }
 }
